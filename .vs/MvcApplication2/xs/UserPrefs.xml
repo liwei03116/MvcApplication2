@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{51FE6175-7DB9-41F2-B810-56D064EC9375}|">
+  <MonoDevelop.Ide.ItemProperties.MvcApplication2 PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcApplication2/Controllers/ValuesController.cs">
+    <Files>
+      <File FileName="MvcApplication2/Models/Employee.cs" Line="23" Column="1" />
+      <File FileName="MvcApplication2/Controllers/EmployeeController.cs" Line="25" Column="110" />
+      <File FileName="MvcApplication2/Controllers/DepartmentController.cs" Line="1" Column="1" />
+      <File FileName="MvcApplication2/Models/Department.cs" Line="1" Column="1" />
+      <File FileName="MvcApplication2/Controllers/ValuesController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MvcApplication2" expanded="True">
+            <Node name="MvcApplication2" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="EmployeeController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

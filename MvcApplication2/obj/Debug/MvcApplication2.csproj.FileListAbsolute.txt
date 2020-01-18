@@ -1,0 +1,142 @@
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/MvcApplication2.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/MvcApplication2.pdb
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/Antlr3.Runtime.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/EntityFramework.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/Microsoft.Web.Infrastructure.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/Newtonsoft.Json.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Net.Http.Formatting.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.Helpers.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.Http.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.Http.WebHost.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.Mvc.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.Optimization.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.Providers.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.Razor.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.Deployment.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.Razor.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/WebGrease.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/EntityFramework.xml
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/Newtonsoft.Json.xml
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Net.Http.Formatting.xml
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.Helpers.xml
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.Http.xml
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.Http.WebHost.xml
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.Mvc.xml
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.Razor.xml
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.xml
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.Deployment.xml
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.Razor.xml
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/obj/Debug/MvcApplication2.csprojResolveAssemblyReference.cache
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/obj/Debug/MvcApplication2.dll
+c:/users/liwei03116/documents/visual studio 2012/Projects/MvcApplication2/MvcApplication2/obj/Debug/MvcApplication2.pdb
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/MvcApplication2.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/MvcApplication2.pdb
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/Antlr3.Runtime.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/EntityFramework.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/Microsoft.Web.Infrastructure.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/Newtonsoft.Json.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Net.Http.Formatting.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.Helpers.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.Http.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.Http.WebHost.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.Mvc.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.Optimization.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.Providers.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.Razor.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.Deployment.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.Razor.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/WebGrease.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/EntityFramework.xml
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/Newtonsoft.Json.xml
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Net.Http.Formatting.xml
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.Helpers.xml
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.Http.xml
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.Http.WebHost.xml
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.Mvc.xml
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.Razor.xml
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.xml
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.Deployment.xml
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.Razor.xml
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/obj/Debug/MvcApplication2.csprojAssemblyReference.cache
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/obj/Debug/MvcApplication2.csproj.CopyComplete
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/obj/Debug/MvcApplication2.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/obj/Debug/MvcApplication2.pdb
+E:/MvcApplication2/MvcApplication2/bin/MvcApplication2.dll.config
+E:/MvcApplication2/MvcApplication2/bin/MvcApplication2.dll
+E:/MvcApplication2/MvcApplication2/bin/MvcApplication2.pdb
+E:/MvcApplication2/MvcApplication2/bin/Antlr3.Runtime.dll
+E:/MvcApplication2/MvcApplication2/bin/EntityFramework.dll
+E:/MvcApplication2/MvcApplication2/bin/Microsoft.Web.Infrastructure.dll
+E:/MvcApplication2/MvcApplication2/bin/Newtonsoft.Json.dll
+E:/MvcApplication2/MvcApplication2/bin/System.Net.Http.Formatting.dll
+E:/MvcApplication2/MvcApplication2/bin/System.Web.Cors.dll
+E:/MvcApplication2/MvcApplication2/bin/System.Web.Helpers.dll
+E:/MvcApplication2/MvcApplication2/bin/System.Web.Http.Cors.dll
+E:/MvcApplication2/MvcApplication2/bin/System.Web.Http.dll
+E:/MvcApplication2/MvcApplication2/bin/System.Web.Http.WebHost.dll
+E:/MvcApplication2/MvcApplication2/bin/System.Web.Mvc.dll
+E:/MvcApplication2/MvcApplication2/bin/System.Web.Optimization.dll
+E:/MvcApplication2/MvcApplication2/bin/System.Web.Providers.dll
+E:/MvcApplication2/MvcApplication2/bin/System.Web.Razor.dll
+E:/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.Deployment.dll
+E:/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.dll
+E:/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.Razor.dll
+E:/MvcApplication2/MvcApplication2/bin/WebGrease.dll
+E:/MvcApplication2/MvcApplication2/bin/Newtonsoft.Json.xml
+E:/MvcApplication2/MvcApplication2/bin/System.Net.Http.Formatting.xml
+E:/MvcApplication2/MvcApplication2/bin/System.Web.Http.xml
+E:/MvcApplication2/MvcApplication2/bin/System.Web.Http.Cors.xml
+E:/MvcApplication2/MvcApplication2/bin/System.Web.Http.WebHost.xml
+E:/MvcApplication2/MvcApplication2/bin/EntityFramework.xml
+E:/MvcApplication2/MvcApplication2/bin/System.Web.Helpers.xml
+E:/MvcApplication2/MvcApplication2/bin/System.Web.Mvc.xml
+E:/MvcApplication2/MvcApplication2/bin/System.Web.Razor.xml
+E:/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.xml
+E:/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.Deployment.xml
+E:/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.Razor.xml
+E:/MvcApplication2/MvcApplication2/obj/Debug/MvcApplication2.csprojAssemblyReference.cache
+E:/MvcApplication2/MvcApplication2/obj/Debug/MvcApplication2.csproj.CoreCompileInputs.cache
+E:/MvcApplication2/MvcApplication2/obj/Debug/MvcApplication2.csproj.CopyComplete
+E:/MvcApplication2/MvcApplication2/obj/Debug/MvcApplication2.dll
+E:/MvcApplication2/MvcApplication2/obj/Debug/MvcApplication2.pdb
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.Cors.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.Http.Cors.dll
+/Users/weili/Documents/All_work_projects/MvcApplication2/MvcApplication2/bin/System.Web.Http.Cors.xml
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/MvcApplication2.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/MvcApplication2.pdb
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/Antlr3.Runtime.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/EntityFramework.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/Microsoft.Web.Infrastructure.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/Newtonsoft.Json.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Net.Http.Formatting.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.Cors.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.Helpers.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.Http.Cors.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.Http.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.Http.WebHost.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.Mvc.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.Optimization.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.Providers.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.Razor.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.Deployment.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.Razor.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/WebGrease.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/Newtonsoft.Json.xml
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Net.Http.Formatting.xml
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.Http.xml
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.Http.Cors.xml
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.Http.WebHost.xml
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/EntityFramework.xml
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.Helpers.xml
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.Mvc.xml
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.Razor.xml
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.xml
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.Deployment.xml
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/bin/System.Web.WebPages.Razor.xml
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/obj/Debug/MvcApplication2.csprojAssemblyReference.cache
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/obj/Debug/MvcApplication2.csproj.CopyComplete
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/obj/Debug/MvcApplication2.dll
+/Users/weili/Documents/All_work_projects/AngularCourse/MvcApplication2/MvcApplication2/obj/Debug/MvcApplication2.pdb
